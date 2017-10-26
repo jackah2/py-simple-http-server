@@ -1,4 +1,4 @@
-Py Simple HTTP Server
+PyTogg -- Simple Python HTTP Server
 =====================
 
 Simple HTTP Server with socket programming with Python 3.
